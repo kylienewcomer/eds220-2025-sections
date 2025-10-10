@@ -1,5 +1,3 @@
-# eds220-2025-sections
-Discussion sections work for the EDS 220 MEDS course.
 # EDS 220 Discussion Sections Repository
 
 This repository hosts all the work completed by [Kylie Newcomer] during the discussion sections of EDS 220 - *Working with Environmental Data*.
